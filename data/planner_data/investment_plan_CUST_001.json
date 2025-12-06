@@ -1,0 +1,119 @@
+{
+  "customer_id": "CUST_001",
+  "plan_date": "2025-12-06T16:39:38.472209",
+  "total_capital": 100000.0,
+  "allocations": [
+    {
+      "symbol": "TCS.NS",
+      "company_name": "Tata Consultancy Services",
+      "sector": "TECH",
+      "weight": 0.17142857142857149,
+      "dollar_amount": 16190.999755859375,
+      "shares": 5,
+      "expected_return": 0.484406566996924,
+      "risk_score": 0.14930780675382063
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "company_name": "HDFC Bank",
+      "sector": "BANKING",
+      "weight": 0.08571428571428574,
+      "dollar_amount": 8026.39990234375,
+      "shares": 8,
+      "expected_return": 0.17293484459368996,
+      "risk_score": 0.11326945395819715
+    },
+    {
+      "symbol": "ICICIBANK.NS",
+      "company_name": "ICICI Bank",
+      "sector": "BANKING",
+      "weight": 0.08571428571428567,
+      "dollar_amount": 8355.0,
+      "shares": 6,
+      "expected_return": 0.24700546174377086,
+      "risk_score": 0.13881616741325511
+    },
+    {
+      "symbol": "KOTAKBANK.NS",
+      "company_name": "Kotak Mahindra Bank",
+      "sector": "BANKING",
+      "weight": 0.08571428571428574,
+      "dollar_amount": 6464.69970703125,
+      "shares": 3,
+      "expected_return": 0.2403842439535407,
+      "risk_score": 0.11930722846572041
+    },
+    {
+      "symbol": "AXISBANK.NS",
+      "company_name": "Axis Bank",
+      "sector": "BANKING",
+      "weight": 0.08571428571428573,
+      "dollar_amount": 7695.0,
+      "shares": 6,
+      "expected_return": 0.301349467415042,
+      "risk_score": 0.11838887882198837
+    },
+    {
+      "symbol": "SBIN.NS",
+      "company_name": "State Bank of India",
+      "sector": "BANKING",
+      "weight": 0.08571428571428572,
+      "dollar_amount": 7772.0,
+      "shares": 8,
+      "expected_return": 0.22001865200604087,
+      "risk_score": 0.14581795548103937
+    },
+    {
+      "symbol": "SUNPHARMA.NS",
+      "company_name": "Sun Pharmaceutical",
+      "sector": "PHARMA",
+      "weight": 0.17142857142857135,
+      "dollar_amount": 16247.700439453125,
+      "shares": 9,
+      "expected_return": 0.3311135901937948,
+      "risk_score": 0.12271030735180213
+    },
+    {
+      "symbol": "DRREDDY.NS",
+      "company_name": "Dr. Reddy's Labs",
+      "sector": "PHARMA",
+      "weight": 0.09563891913450188,
+      "dollar_amount": 8926.399658203125,
+      "shares": 7,
+      "expected_return": 0.30217176976265103,
+      "risk_score": 0.17520605641157225
+    },
+    {
+      "symbol": "LUPIN.NS",
+      "company_name": "Lupin Limited",
+      "sector": "PHARMA",
+      "weight": 0.1329325094369269,
+      "dollar_amount": 12592.80029296875,
+      "shares": 6,
+      "expected_return": 0.35681400455504003,
+      "risk_score": 0.16045070292319347
+    }
+  ],
+  "portfolio_metrics": {
+    "number_of_stocks": 9,
+    "total_invested": 92270.99975585938,
+    "cash_remaining": 7729.000244140625,
+    "average_allocation": 0.11111111111111113,
+    "max_allocation": 0.17142857142857149,
+    "min_allocation": 0.08571428571428567
+  },
+  "risk_analysis": {
+    "portfolio_volatility": 0.0944538276556905,
+    "risk_level": "LOW",
+    "max_drawdown_estimate": -0.188907655311381,
+    "sector_distribution": {
+      "TECH": 0.17142857142857149,
+      "BANKING": 0.4285714285714286,
+      "PHARMA": 0.40000000000000013
+    },
+    "concentration_risk": 0.17142857142857149
+  },
+  "expected_annual_return": 0.31742296111738766,
+  "sharpe_ratio": 3.3606151174146097,
+  "diversification_score": 0.9
+}
